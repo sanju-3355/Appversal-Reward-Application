@@ -1,0 +1,18 @@
+.activity-feed {
+    padding: 20px;
+  }
+  
+  .activity-feed h2 {
+    font-size: 24px;
+  }
+  
+  .activity-feed ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .activity-feed li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  

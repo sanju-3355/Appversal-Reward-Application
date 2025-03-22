@@ -1,0 +1,37 @@
+.cart {
+    padding: 20px;
+  }
+  
+  .cart ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .cart li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .cart button {
+    background: #dc3545;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .checkout {
+    background: #28a745;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .checkout:hover {
+    background: #218838;
+  }
+  

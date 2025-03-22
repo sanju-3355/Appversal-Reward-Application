@@ -1,0 +1,23 @@
+.notifications-container {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 250px;
+    background: var(--bg-color);
+    color: var(--text-color);
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+  }
+  
+  .notification {
+    margin-bottom: 5px;
+    padding: 5px;
+    background: lightgray;
+    border-radius: 5px;
+  }
+  
+  button {
+    margin-top: 5px;
+  }
+  

@@ -1,0 +1,17 @@
+.user-list {
+  padding: 20px;
+}
+
+.user-list h2 {
+  font-size: 24px;
+}
+
+.user-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.user-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
